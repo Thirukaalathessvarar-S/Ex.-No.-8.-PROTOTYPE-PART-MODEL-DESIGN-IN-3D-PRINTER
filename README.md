@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![272227857-759f3b2b-35aa-45fa-9952-c607a084b3a3](https://github.com/Thirukaalathessvarar-S/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/121166390/c13ce602-5565-4dee-aa51-e774f04afd46)
+![281651741-45ceb45d-5da1-4fca-a60b-35a89fc7c141](https://github.com/Thirukaalathessvarar-S/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/121166390/360c4152-a28d-4df1-b149-1693b468f593)
 
 ### Name: Thirukaalathessvarar S
 ### Register Number: 212222230161
